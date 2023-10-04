@@ -1,4 +1,4 @@
-import { connectDB } from '../initDB';
+import { connectDB } from './initDB';
 import { createServer } from './server';
 import dotenv from 'dotenv';
 
